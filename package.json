@@ -1,0 +1,22 @@
+{
+  "name": "flow",
+  "version": "1.0.0",
+  "description": "![So yo the N what the .JS, incorporate O-D-E into a flow](http://37.media.tumblr.com/tumblr_lyubxrCwb41qfwa93o1_400.gif)",
+  "main": "index.js",
+  "scripts": {
+    "test": "vows"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/topherbullock/flow.git"
+  },
+  "keywords": [
+    "flows"
+  ],
+  "author": "topherbullock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/topherbullock/flow/issues"
+  },
+  "homepage": "https://github.com/topherbullock/flow"
+}
