@@ -9,7 +9,7 @@ Stream-lined Enterprise Integration patterns using Node***(I/O,or/whatever)***.j
 
 
 Diagram of example system design for first iteration of this project.
-Only covering a small subset of the patterns defined in Enterprise (Integration Patterns)[http://www.enterpriseintegrationpatterns.com/]
+Only covering a small subset of the patterns defined in [Enterprise Integration Patterns](http://www.enterpriseintegrationpatterns.com/)
 
 
 ```
